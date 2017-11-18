@@ -1,0 +1,77 @@
+.nav{
+height:100px;
+width:100%;
+}
+.container{
+  margin:auto;
+  max-width:960px;
+  height:100%;
+}
+.logo{
+  float:left;
+  width:160px;
+}
+.menu{
+  display:inline-block;
+  float:right;
+  width:300px;
+}
+.menu>li{
+  font-size:20px;
+  display:inline-block;
+}
+ul{
+  list-style:none;
+  margin:0px;
+  padding:0px;
+}
+body{
+  margin: 0px;
+}
+.title-wrapper{
+  padding-top: 50px;
+  text-align: center;
+  width:100%;
+}
+
+.intro{
+  width:50%;
+  float:left;
+}
+a{
+  text-decoration: none;
+}
+*{
+-webkit-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+    box-sizing:border-box;
+}
+.right{
+  text-align:center;
+}
+
+.column{
+  width:50%;
+  float:left;
+}
+.column img{
+  margin:auto;
+  display:block;
+  max-width: 80%;
+  padding-bottom: 80px;
+}
+.dogs{
+  padding-top: 20px;
+  padding-bottom:20px;
+}
+section{
+  overflow:hidden;
+}
+
+h4{
+  font-size: 30px;
+}
+
+h4>p{
+  font-size: 25px;
+}
